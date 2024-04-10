@@ -1,0 +1,1 @@
+ I really wish to develop a real world project using the python programming language and in this way improve my python skills. Also I am really motivated to learn about the ROS and all the sensors which we will be using in this project.
